@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\SecondHomeWork\bin\Debug\net7.0\SecondHomeWork.exe
+C:\Users\nikit\Desktop\SecondHomeWork\bin\Debug\net7.0\SecondHomeWork.deps.json
+C:\Users\nikit\Desktop\SecondHomeWork\bin\Debug\net7.0\SecondHomeWork.runtimeconfig.json
+C:\Users\nikit\Desktop\SecondHomeWork\bin\Debug\net7.0\SecondHomeWork.dll
+C:\Users\nikit\Desktop\SecondHomeWork\bin\Debug\net7.0\SecondHomeWork.pdb
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.AssemblyInfo.cs
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.dll
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\refint\SecondHomeWork.dll
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.pdb
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\SecondHomeWork.genruntimeconfig.cache
+C:\Users\nikit\Desktop\SecondHomeWork\obj\Debug\net7.0\ref\SecondHomeWork.dll
